@@ -42,22 +42,17 @@ This repository contains resources for the Bitwarden brand such as logos, icons,
 
 ### Branding
 
-Bitwarden Blue
-![Bitwarden Blue](/brand-colors/bitwarden-blue.png "Bitwarden Blue")   
- `#175DDC`
- 
-Deep Blue  
-![Deep Blue](/brand-colors/deep-blue.png "Bitwarden Deep Blue")      
-`#1A41AC`
- 
-Indigo Blue  
-![Bitwarden Secondary Dark Blue](/brand-colors/indigo-blue.png "Bitwarden Indigo Blue")      
-`#020F66`
+- Bitwarden Blue `#175DDC`  
+![Bitwarden Blue](/brand-colors/bitwarden-blue.png "Bitwarden Blue")
 
-Highlight Teal 
-![Bitwarden Accent Green](/brand-colors/highlight-teal.png "Bitwarden Highlight Teal")      
-`#2CDDE9`
+- Deep Blue `#1A41AC`  
+![Deep Blue](/brand-colors/deep-blue.png "Bitwarden Deep Blue")
 
+- Indigo Blue `#020F66`  
+![Bitwarden Secondary Dark Blue](/brand-colors/indigo-blue.png "Bitwarden Indigo Blue")
+
+- Highlight Teal `#2CDDE9`  
+![Bitwarden Accent Green](/brand-colors/highlight-teal.png "Bitwarden Highlight Teal")
 
 ### Auxiliary
 
